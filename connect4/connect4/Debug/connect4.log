@@ -1,0 +1,5 @@
+﻿  connect4.cpp
+c:\users\형준\source\repos\connect4\connect4\connect4.cpp(237): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\형준\source\repos\connect4\connect4\connect4.cpp(313): warning C4101: 'bot_line' :참조되지 않은 지역 변수입니다.
+c:\users\형준\source\repos\connect4\connect4\connect4.cpp(313): warning C4101: 'rival_line' :참조되지 않은 지역 변수입니다.
+  connect4.vcxproj -> C:\Users\형준\source\repos\connect4\Debug\connect4.exe
